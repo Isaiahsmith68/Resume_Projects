@@ -10,25 +10,25 @@ Two datasets were downloaded for my EDA:
 Each CSV file contains 12 columns. They are as follows:
 1. Animal ID - 
 Unique ID
-2. Name
+2. Name - 
 Name of Animal
-3. DateTime
+3. DateTime - 
 Date & time of outcome
-4. MonthYear
+4. MonthYear - 
 Month & year of outcome
-5. Date of Birth
+5. Date of Birth - 
 Date of birth of the animal
-6. Outcome Type
+6. Outcome Type - 
 Type of outcome (adoption, transfer, euthanasia, etc)
-7. Outcome Subtype
+7. Outcome Subtype - 
 Subtype of outcome (reason behind certain outcome types)
-8. Animal Type
+8. Animal Type - 
 Type of animal
-9. Sex upon Outcome
+9. Sex upon Outcome - 
 Sex & whether the animal is spayed/neutered or not at the outcome
-10. Age upon Outcome
+10. Age upon Outcome - 
 Age of animal at the outcome
-11. Breed
+11. Breed - 
 Breed of animal
-12. Color
+12. Color - 
 Color of animal
